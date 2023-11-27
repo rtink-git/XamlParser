@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xoR/XBhScWX1kAiHCabsg0A5IAYx0DwfFpamh+MFrAQcI1ZCOuusX2gkDid3bsxAzHTS9jtCqJx2NdK5wZL85w==",
+  "success": true,
+  "projectFilePath": "/Users/aidargalimov/Documents/Airat/Projects/XamlParser/XamlParser - net seven/XamlParser.csproj",
+  "expectedPackageFiles": [
+    "/Users/aidargalimov/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/aidargalimov/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/aidargalimov/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "/Users/aidargalimov/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/Users/aidargalimov/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/Users/aidargalimov/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

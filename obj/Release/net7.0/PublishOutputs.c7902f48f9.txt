@@ -1,0 +1,3 @@
+/Users/aidargalimov/Documents/Airat/Projects/XamlParser/XamlParser - net seven/bin/Release/net7.0/publish/XamlParser.dll
+/Users/aidargalimov/Documents/Airat/Projects/XamlParser/XamlParser - net seven/bin/Release/net7.0/publish/XamlParser.deps.json
+/Users/aidargalimov/Documents/Airat/Projects/XamlParser/XamlParser - net seven/bin/Release/net7.0/publish/XamlParser.pdb
